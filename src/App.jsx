@@ -113,7 +113,7 @@ export default function App() {
       setPhone("");
       setMessage("");
     } catch (err) {
-      setSuccess("Xatolik ❌");
+      setSuccess("Xatolik ");
     } finally {
       setLoading(false);
     }
